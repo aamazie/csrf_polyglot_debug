@@ -1,1 +1,3 @@
 ssrf debugger python file
+
+drkssrf.py, does CSRF checks and finds that, from the domain's same endpoint, your application isn't checking for these kinds of bypasses.. we CSRF from server side with this polyglot XSS encoding...
